@@ -1,6 +1,7 @@
 var currentDateEl = $("#currentDay");
 
 function todayDate() {
-    var thisDay = moment().format("MM, DD, YYYY");
-    currentDateEl.text(thisDay);
+    var thisDay = moment().format("MMM DD, YYYY");
+    currentDateEl.text("Today's Date: " + thisDay);
 }
+todayDate();
