@@ -1,4 +1,4 @@
-# homework-planner
+## Day-Planner
 
 Objective:
 To create a functioning day planner application, capable of staying up to date on the current day and time as well as logging events put in ny a user. Application is live at this link: https://allykatrocks.github.io/homework-planner/
@@ -10,6 +10,8 @@ Requirements:
 4. When a user clicks into a time block, they can enter an event.
 5. When the save button is pressed, the event is saved to local storage.
 6. The saved event persists on the page when the page is refreshed
+
+## Screenshots
 
 [Application preview](./images/browser.png)
 
